@@ -2,6 +2,8 @@ import requests
 
 '''
 Added some comments.
+
+Dit is een extra commentaarregel
 '''
 
 def main():
